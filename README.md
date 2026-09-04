@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 1. **Ventana Transparente con Click-Through**:
    - Fondo totalmente transparente (sin bordes ni marcos de ventana).
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Cómo Ejecutar
+## Cómo Ejecutar
 
 ### Requisitos Previos:
 - Python 3.10 o superior (probado en Python 3.13)
@@ -64,7 +64,7 @@ El ejecutable resultante se encontrará en la carpeta `dist/FruityFocus/FruityFo
 
 ---
 
-## 🎮 Controles Rápidos
+## Controles Rápidos
 
 - **Clic Izquierdo + Arrastrar**: Mover al mango por la pantalla. Al soltarlo, cae por gravedad.
 - **Clic Izquierdo Rápido (sin arrastrar)**: Muestra u oculta el bocadillo con el contador.
