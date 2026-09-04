@@ -54,7 +54,7 @@ python main.py
 
 ---
 
-## 🛠️ Empaquetado a Ejecutable (.exe)
+## Empaquetado a Ejecutable (.exe)
 
 Para compilar FruityFocus en un ejecutable independiente de Windows sin consola de depuración:
 ```powershell
